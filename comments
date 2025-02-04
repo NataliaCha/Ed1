@@ -1,0 +1,6 @@
+print(type(var4)) -- define the type of variety
+d=(str(c)) --change the type of variety
+dir(var4) -- this function show all actions for this variety
+print (f"myname is {name} and my age is {age}") -- formatted string (f)
+a= int(input()) - ввод данных
+print(dir(a))## check all possible methods for argument

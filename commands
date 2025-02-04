@@ -1,0 +1,5 @@
+command +? =
+control+r = run code
+shift+3 = comment near the line
+option +enter = help
+command option l= right format
