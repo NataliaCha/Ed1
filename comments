@@ -5,3 +5,4 @@ print (f"myname is {name} and my age is {age}") -- formatted string (f)
 a= int(input()) - ввод данных
 print(dir(a))## check all possible methods for argument
 
+
